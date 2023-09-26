@@ -1,0 +1,5 @@
+cat "file.txt[D[D[D[D1[B[A.txt[3~[Dt" > "dasdsada"
+cat file1.txt > dadsad
+clear
+cat file2.txt
+clear
